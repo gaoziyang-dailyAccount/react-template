@@ -1,0 +1,19 @@
+{
+  "name": "react-template",
+  "version": "1.0.0",
+  "description": "a webpack react template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaoziyang-dailyAccount/react-template.git"
+  },
+  "author": "gaozy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaoziyang-dailyAccount/react-template/issues"
+  },
+  "homepage": "https://github.com/gaoziyang-dailyAccount/react-template#readme"
+}
